@@ -8,7 +8,7 @@
 
 ## 🔥 Key Features
 
-- 🎰 **Spin-to-win mechanic**: Earn TON coins or NFTs
+- 🎰 **Spin-to-win mechanic**: Earn TON coins or NFTs  
 - 🛍️ **In-app shop**: Redeem earned points for rewards  
 - 📊 **Admin panel**: Monitor users, prizes & stats  
 - 💳 **TON Wallet Integration**: Using TonConnect  
@@ -26,12 +26,10 @@ Watch full demo here:
 
 ## 📸 Screenshots
 
-| ![VolyaGift Mini App UI](./screenshots/VolyaGift-Telegram-Mini-App-UI.webp) |
-| ![VolyaGift UI 2](./screenshots/VolyaGift-Telegram-Mini-App-UI-2.webp) |
-| Mini App UI | Admin Panel |
-|------------|---------------|
-![Admin Panel 1](./screenshots/VolyaGift-Telegram-Mini-App-Admin-Panel.webp)  
-![Admin Panel 2](./screenshots/VolyaGift-Telegram-Mini-App-Admin-Panel-2.webp) |
+| Mini App UI                                   | Admin Panel                                  |
+|----------------------------------------------|----------------------------------------------|
+| ![UI Screenshot 1](./screenshots/VolyaGift-Telegram-Mini-App-UI.webp) | ![Admin Panel 1](./screenshots/VolyaGift-Telegram-Mini-App-Admin-Panel.webp) |
+| ![UI Screenshot 2](./screenshots/VolyaGift-Telegram-Mini-App-UI-2.webp) | ![Admin Panel 2](./screenshots/VolyaGift-Telegram-Mini-App-Admin-Panel-2.webp) |
 
 ---
 
@@ -63,11 +61,11 @@ Message me on Telegram if you're interested in partnership, custom development, 
 
 ## 🌐 Built With
 
-- **Next.js** (React frontend)
-- **PHP** (backend for Admin Panel)
-- **MySQL** (user/reward data)
-- **Tailwind CSS**
-- **TonConnect SDK**
+- **Next.js** (React frontend)  
+- **PHP** (backend for Admin Panel)  
+- **MySQL** (user/reward data)  
+- **Tailwind CSS**  
+- **TonConnect SDK**  
 - **TON Blockchain APIs**
 
 ---
@@ -78,4 +76,3 @@ This repository is only a **preview**. The **complete working source code** is a
 For questions or custom solutions, feel free to reach out on Telegram.
 
 ---
-
